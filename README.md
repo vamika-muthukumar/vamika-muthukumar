@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to colloborate **Frontend development projects, especially involving React, JavaScript, and UI/UX design.**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+- 👨‍💻 All of my projects are available at [https://vamika-muthukumar.github.io/Portfolio/](https://vamika-muthukumar.github.io/Portfolio/)
 
 - 📫 How to reach me **vamikamuthukumar147@gmail.com**
 
